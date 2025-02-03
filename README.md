@@ -10,7 +10,7 @@ The analysis explores how the proximity to trails (trailhead score) affects real
 
 - **Data Preprocessing:** Clean and prepare the real estate data.
 - **Statistical Analysis:** Conduct Ordinary Least Squares (OLS) regression to understand the impact of trailhead scores on real estate prices.
-- **Clustering:** Apply k-means clustering to categorize properties based on their recreation score.
+- **Clustering:** Apply k-means and heirarchial clustering to categorize properties based on their recreation score.
 - **Visualization:** Map the clusters using geographical data to visualize the distribution and grouping of properties in relation to their proximity to trailheads.
 
 ## Technologies Used
