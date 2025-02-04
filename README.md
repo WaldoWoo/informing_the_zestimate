@@ -4,7 +4,7 @@ This repository contains the Jupyter Notebook `rec_score_cluster.ipynb`, which i
 
 ## Project Overview
 
-The analysis explores how the proximity to trails (trailhead score) affects real estate prices. The notebook includes detailed statistical analyses and regression models to predict housing prices based on these scores. It also visualizes the geographic distribution of these properties and their clustering based on the k-means algorithm.
+The analysis explores how the proximity to trails (trailhead score) affects real estate prices. The notebook includes detailed statistical analyses and regression models to predict housing prices based on these scores. It also visualizes the geographic distribution of these properties and their clustering based on the k-means and heirarchial clustering algorithms.
 
 ## Features
 
